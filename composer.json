@@ -18,7 +18,7 @@
   "autoload": {
     "files": ["registration.php"],
     "psr-4": {
-      "Paygate\\Paygate\\": ""
+      "Paygate\\Paygate\\": "paygate/"
     }
   },
     "type": "magento2-module",
