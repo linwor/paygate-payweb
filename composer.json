@@ -2,7 +2,7 @@
     "name": "paygate/paygate",
     "description": "Paygate Payment Gateway",
     "require": {
-      "php": "~5.5.0|~5.6.0",
+      "php": "~5.5.0|~5.6.0|~7.1.0|~7.2.0|~7.3.0",
       "magento/module-store": "0.74.0-beta4",
       "magento/module-theme": "0.74.0-beta4",
       "magento/module-widget": "0.74.0-beta4",
